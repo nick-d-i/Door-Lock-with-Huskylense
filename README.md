@@ -8,9 +8,11 @@ This project is a face recognition-based smart lock system using the [HuskyLens 
 
 ### 📷 Hardware Setup
 
-<img src="images/IMG_20250529_183928.jpg" width="500" alt="Hardware setup 1">
-<img src="images/IMG_20250529_183933.jpg" width="500" alt="Hardware setup 2">
-<img src="images/IMG_20250529_183939.jpg" width="500" alt="Hardware setup 3">
+![IMG_20250529_183939](https://github.com/user-attachments/assets/64b04b08-6b05-4aa6-bd30-f98015453d13)
+![IMG_20250529_183933](https://github.com/user-attachments/assets/b3b27a76-6ace-486f-b10d-32975b485d96)
+![IMG_20250529_183928](https://github.com/user-attachments/assets/7839d31a-99d2-4bb4-8633-12f262e1744f)
+
+
 
 ---
 
